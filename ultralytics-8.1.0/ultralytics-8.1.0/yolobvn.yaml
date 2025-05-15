@@ -1,0 +1,10 @@
+path: C:\Users\86152\Desktop\ultralytics-8.1.0\datasets\bvn
+train: images/train
+val: images/val
+test:
+
+
+names:
+   0: fall_down
+   1: stand
+   2: sit
